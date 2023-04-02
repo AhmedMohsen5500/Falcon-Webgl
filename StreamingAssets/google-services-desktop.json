@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6497577399",
+    "firebase_url": "https://adnoc-efb77-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "adnoc-efb77",
+    "storage_bucket": "adnoc-efb77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6497577399:android:09c4505f07e62ab9552032",
+        "android_client_info": {
+          "package_name": "com.Adnoc.FalconRacer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6497577399-09s7hf44cgq4p5m88o55rvau17pajesn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Adnoc.FalconRacer",
+            "certificate_hash": "4b9ce72960bc1c372fe8f1a5c444904fc3edc4a4"
+          }
+        },
+        {
+          "client_id": "6497577399-43v2gnr08g4kmlf806225a8acbfijoco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBadIk0jzyhwfKw_eiGaXlkOKUOHYrEiFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6497577399-43v2gnr08g4kmlf806225a8acbfijoco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6497577399-god52qn8kv2n4aeuevm68bksekt1maih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Adnoc.FalconRacer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
