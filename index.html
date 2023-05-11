@@ -58,9 +58,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/Falcon-Webgl.loader.js";
       var config = {
-        dataUrl: buildUrl + "/5ccec710ab55fbf498ee6aafd4161829.data",
-        frameworkUrl: buildUrl + "/1ba030a21d2821e432fc1dd56300283d.js",
-        codeUrl: buildUrl + "/4bb0703d174c324cc73df911543f71eb.wasm",
+        dataUrl: buildUrl + "/Falcon-Webgl.data",
+        frameworkUrl: buildUrl + "/Falcon-Webgl.framework.js",
+        codeUrl: buildUrl + "/Falcon-Webgl.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Adnoc",
         productName: "FalconRacer",
@@ -91,7 +91,6 @@
         canvas.style.width = window.innerWidth + 'px';
         canvas.style.height = window.innerHeight + 'px';
 
-        unityShowBanner('WebGL builds are not supported on mobile devices.');
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
